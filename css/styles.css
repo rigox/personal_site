@@ -57,3 +57,22 @@ h1,h2,h3{
     text-align: center;
     }
 
+
+#main-footer{
+    text-align:center;
+    background:#444;
+    color:white;
+    padding:20px;
+}
+
+
+/*About*/
+#description .about-img{
+    background: url('../images/IMG_2757.jpeg') no-repeat center center/cover;
+    height:200px;
+    width:200px;
+    border-radius: 55%;
+    margin:auto;
+    padding-top:50px;
+}
+
